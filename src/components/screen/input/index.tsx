@@ -30,7 +30,4 @@ export const Input: React.FunctionComponent<TextInputProps> = ({ ...otherProps }
 
   );​
 
-};​
-
-​
-​
+};
